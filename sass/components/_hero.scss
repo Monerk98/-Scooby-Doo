@@ -1,0 +1,208 @@
+.hero
+{
+    padding-top: 650px;
+    padding-bottom: 500px;
+ position: relative;   
+    background-image:linear-gradient(rgba(47,48,58,0.4), 
+rgba(47,48,58,0.4)), url(../images/giza2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero__title
+{
+position: absolute;
+top: 0;
+left: 200px;
+font-family: $font-secondary;
+font-style: normal;
+font-weight: $fw-bold;
+font-size: 84px;
+line-height: 1.3;
+letter-spacing: 0.03em;
+-webkit-text-stroke: .02em rgb(255, 196, 0);
+color: #cfc31bee;
+text-shadow: 5px 2px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.scoobRun
+{
+    position: absolute;
+    width: 900px;
+    margin-top: -70px;
+    margin-left: 0px;
+  
+}
+.mum1
+{
+    position: absolute;
+    width: 600px;
+    margin-top: -90px;
+    margin-left: 910px;
+}
+// {
+//     width: 700px;
+//     background: transparent;
+// }
+.treasure__hero
+{
+    margin-top:-400px;
+    margin-left: 200px;
+    position: absolute;
+    width: 300px;
+    height: 275px;
+    border-radius: 50%;
+    border:10px solid red;
+}
+//================ TREASURE! start ===================
+.treasure1
+{
+    transform: rotate(-20deg);
+    margin-top:-442px;
+    margin-left: 97px;
+    position: absolute;
+    font-family: $font-secondary;
+    font-style: normal;
+    font-weight: $fw-bold;
+    font-size: 46px;
+    line-height: 1.3;
+    letter-spacing: 0.03em; 
+    color: white;
+    text-shadow: 1px 1px 2px red, 0 0 1em red, 0 0 0.2em red;
+}
+.treasure2
+{
+    transform: rotate(-5deg);
+    margin-top:-448px;
+    margin-left: 129px;
+    position: absolute;
+    font-family: $font-secondary;
+    font-style: normal;
+    font-weight: $fw-bold;
+    font-size: 46px;
+    line-height: 1.3;
+    letter-spacing: 0.03em; 
+    color: white;
+    text-shadow: 1px 1px 2px red, 0 0 1em red, 0 0 0.2em red;
+}
+.treasure3
+{
+    transform: rotate(5deg);
+    margin-top:-447px;
+    margin-left: 162px;
+    position: absolute;
+    font-family: $font-secondary;
+    font-style: normal;
+    font-weight: $fw-bold;
+    font-size: 46px;
+    line-height: 1.3;
+    letter-spacing: 0.03em; 
+    color: white;
+    text-shadow: 1px 1px 2px red, 0 0 1em red, 0 0 0.2em red;
+}
+.treasure4
+{
+    transform: rotate(10deg);
+    margin-top:-443px;
+    margin-left: 193px;
+    position: absolute;
+    font-family: $font-secondary;
+    font-style: normal;
+    font-weight: $fw-bold;
+    font-size: 46px;
+    line-height: 1.3;
+    letter-spacing: 0.03em; 
+    color: white;
+    text-shadow: 1px 1px 2px red, 0 0 1em red, 0 0 0.2em red;
+}
+.treasure5
+{
+    transform: rotate(24deg);
+    margin-top:-434px;
+    margin-left: 222px;
+    position: absolute;
+    font-family: $font-secondary;
+    font-style: normal;
+    font-weight: $fw-bold;
+    font-size: 46px;
+    line-height: 1.3;
+    letter-spacing: 0.03em; 
+    color: white;
+    text-shadow: 1px 1px 2px red, 0 0 1em red, 0 0 0.2em red;
+}
+.treasure6
+{
+    transform: rotate(35deg);
+    margin-top:-417px;
+    margin-left: 250px;
+    position: absolute;
+    font-family: $font-secondary;
+    font-style: normal;
+    font-weight: $fw-bold;
+    font-size: 46px;
+    line-height: 1.3;
+    letter-spacing: 0.03em; 
+    color: white;
+    text-shadow: 1px 1px 2px red, 0 0 1em red, 0 0 0.2em red;
+}
+.treasure7
+{
+    transform: rotate(46deg);
+    margin-top:-396px;
+    margin-left: 273px;
+    position: absolute;
+    font-family: $font-secondary;
+    font-style: normal;
+    font-weight: $fw-bold;
+    font-size: 46px;
+    line-height: 1.3;
+    letter-spacing: 0.03em; 
+    color: white;
+    text-shadow: 1px 1px 2px red, 0 0 1em red, 0 0 0.2em red;
+}
+.treasure8
+{
+    transform: rotate(55deg);
+    margin-top:-363px;
+    margin-left: 290px;
+    position: absolute;
+    font-family: $font-secondary;
+    font-style: normal;
+    font-weight: $fw-bold;
+    font-size: 46px;
+    line-height: 1.3;
+    letter-spacing: 0.03em; 
+    color: white;
+    text-shadow: 1px 1px 2px red, 0 0 1em red, 0 0 0.2em red;
+}
+.treasure9
+{
+    transform: rotate(77deg);
+    margin-top:-319px;
+    margin-left: 310px;
+    position: absolute;
+    font-family: $font-secondary;
+    font-style: normal;
+    font-weight: $fw-bold;
+    font-size: 46px;
+    line-height: 1.3;
+    letter-spacing: 0.03em; 
+    color: white;
+    text-shadow: 1px 1px 2px red, 0 0 1em red, 0 0 0.2em red;
+}
+.treasure10
+{
+    transform: rotate(87deg);
+    margin-top:-294px;
+    margin-left: 323px;
+    position: absolute;
+    font-family: $font-secondary;
+    font-style: normal;
+    font-weight: $fw-bold;
+    font-size: 46px;
+    line-height: 1.3;
+    letter-spacing: 0.03em; 
+    color: white;
+    text-shadow: 1px 1px 2px red, 0 0 1em red, 0 0 0.2em red;
+}
+//================ TREASURE! end ===================

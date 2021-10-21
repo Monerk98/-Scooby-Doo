@@ -1,0 +1,103 @@
+.wave
+{
+    position: absolute;
+    top: -5px;
+    left: -31px;
+    // width: 1280px;
+    width: 100%;
+    
+}
+.helper
+{
+    position: absolute;
+    
+    margin-left: 1468px;
+    width: 50px;
+    height: 136px;
+    background: #DFCB13;
+}
+.scoob
+{
+    position: absolute;
+    width: 900px;
+    height: 250px;
+    z-index: 4;
+    margin-left: 450px;
+    margin-top: 80px;
+}
+.planet
+{
+    margin-top: -30px;
+    margin-left: 80px;
+    position: absolute;
+    width: 550px;
+    height: 550px;
+    z-index: 2;
+}
+.planet__gradient
+{
+    margin-top: 5px;
+    margin-left: 115px;
+    position: absolute;
+    width: 470px;
+    height: 470px;
+    z-index: 3;
+    background: linear-gradient(rgba(47,48,58,0.4), 
+    rgba(47,48,58,0.4)),;
+    border-radius: 50%;
+}
+.web
+{
+    margin-top: 100px;
+    width: 160px;
+    position: absolute;
+    margin-left: 1350px;
+    z-index: 5;
+}
+// BAT start 
+.bat__one
+{
+    transform: rotate(45deg);
+    position:absolute;
+    width: 150px;
+    margin-left: 1300px;
+}
+.bat__two
+{
+    transform: rotate(30deg);
+    position:absolute;
+    width: 150px;
+    margin-left: 950px;
+}
+.bat__three
+{
+    transform: rotate(15deg);
+    position:absolute;
+    width: 150px;
+    margin-left: 650px;
+}
+.bat__four
+{
+    transform: rotate(-10deg);
+    position:absolute;
+    width: 150px;
+    margin-left: 20px;  
+}
+// BAT finish
+.car
+{
+    margin-top: 200px;
+    transform: rotate(30deg);
+    position:absolute;
+    width: 250px;
+    margin-left: 1200px; 
+    z-index: 6;
+}
+.scoob__main
+{
+    width: 350px;
+    position: absolute;
+    z-index: 7;
+    margin-top: 40px;
+    margin-left: 130px;
+}

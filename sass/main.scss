@@ -1,0 +1,12 @@
+// Utils
+@import './utils/variables';
+
+// BASE
+@import './base/main-styles';
+@import './base/drop';
+@import './base/_container';
+
+// components
+@import './components/header';
+@import './components/headerImg';
+@import './components/hero';
